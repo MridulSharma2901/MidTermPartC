@@ -5,7 +5,7 @@
 package midtermexam_versiona_extensioncode;
 
 /**
- *
+ * 
  * @author Mridul
  */
     import java.util.Scanner;
